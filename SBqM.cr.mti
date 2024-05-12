@@ -1,0 +1,29 @@
+{D:/SBqM project/ROM.v} {1 {vlog -work work {D:/SBqM project/ROM.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} {D:/SBqM project/ROMTest.v} {1 {vlog -work work {D:/SBqM project/ROMTest.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module ROMTest
+
+Top level modules:
+	ROMTest
+
+} {} {}} {D:/SBqM project/Counter.v} {1 {vlog -work work {D:/SBqM project/Counter.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}} {D:/SBqM project/UnitTest.v} {1 {vlog -work work {D:/SBqM project/UnitTest.v}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module UnitTest
+
+Top level modules:
+	UnitTest
+
+} {} {}}
