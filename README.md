@@ -65,9 +65,6 @@ This project is a simple **Smart Queue Management System** implemented in Verilo
 * Integrate an FPGA or microcontroller for real-world testing.
 * Add display modules for real-time queue monitoring.
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
